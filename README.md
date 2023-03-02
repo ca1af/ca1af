@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![ca1af's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca1af&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca1af&layout=&theme=dark)
 
 <!--
 **ca1af/ca1af** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
