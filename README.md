@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🌱 I’m currently learning Java/Spring.
+
+<div align="center">
 ![ca1af's GitHub stats](https://github-readme-stats.vercel.app/api?username=ca1af&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ca1af&layout=&theme=dark)
 
@@ -17,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</div>
