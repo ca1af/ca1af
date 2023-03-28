@@ -3,10 +3,11 @@
 
 🌱 I’m currently learning Java/Spring.
 </div>
+<br>
 
 ---
 
-<h3> Skills </h3> 
+<h3 align= "center"> Skills </h3> 
 
 <div align="center">
   Java <br>
@@ -16,12 +17,16 @@
   PostgreSQL
   
 </div>
+<br>
 
-<br><br>
+---
+<br>
 
-<h3> CONTACT </h3>
+<h3 align= "center"> CONTACT </h3>
+<div align= "center">
 Gmail : laancer4@gmail.com<br>
 Velog : https://velog.io/@calaf
+  </div>
 <br><br>
 
 <h3> 🥑 GitHub 🥑</h3>
