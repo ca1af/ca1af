@@ -1,5 +1,6 @@
 <div align="center">
-### Hi there 👋
+
+  ### Hi there 👋
 
 🌱 I’m currently learning Java/Spring.
 </div>
@@ -13,8 +14,8 @@
   Java <br>
   Spring/SpringBoot <br>
   Redis <br>
-  Docker <br>
-  PostgreSQL
+  PostgreSQL <br>
+  MySQL
   
 </div>
 <br>
